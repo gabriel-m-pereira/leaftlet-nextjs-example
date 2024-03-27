@@ -6,7 +6,7 @@ import { ReactNode } from "react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Leaflet exemple",
+  title: "Leaflet example",
 };
 
 const RootLayout = ({ children }: { children: ReactNode }) => {
