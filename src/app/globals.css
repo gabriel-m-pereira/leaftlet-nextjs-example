@@ -31,3 +31,9 @@ body {
     text-wrap: balance;
   }
 }
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
