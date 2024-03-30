@@ -8,9 +8,6 @@ dependencies:
   '@radix-ui/react-slot':
     specifier: ^1.0.2
     version: 1.0.2(@types/react@18.2.72)(react@18.2.0)
-  '@react-leaflet/core':
-    specifier: ^2.1.0
-    version: 2.1.0(leaflet@1.9.4)(react-dom@18.2.0)(react@18.2.0)
   '@types/leaflet':
     specifier: ^1.9.8
     version: 1.9.8
@@ -26,9 +23,6 @@ dependencies:
   leaflet:
     specifier: ^1.9.4
     version: 1.9.4
-  leaflet-example:
-    specifier: 'link:'
-    version: 'link:'
   leaflet.markercluster:
     specifier: ^1.5.3
     version: 1.5.3(leaflet@1.9.4)
