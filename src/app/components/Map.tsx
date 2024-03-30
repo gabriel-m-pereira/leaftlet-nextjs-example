@@ -9,7 +9,7 @@ import MarkerWrapper from "./MarkerWrapper";
 import MarkerClusterGroup from "react-leaflet-cluster";
 import { Button } from "./ui/button";
 import { useState } from "react";
-import t from "@/app/accesstoken.json";
+// import t from "@/app/accesstoken.json";
 
 const CustomIcon = {
   icon: IconSource(MarkerWrapper([MapPin])),
@@ -177,7 +177,7 @@ const Map = () => {
         <TileLayer
           attribution={mapAttribution}
           url={mapSkin}
-          accessToken={t.accesstoken}
+          // accessToken={t.accesstoken}
         />
         <MarkerClusterGroup
           chunkedLoading
