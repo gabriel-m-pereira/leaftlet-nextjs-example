@@ -7,17 +7,17 @@ This repository consists of both a basic and styled implemetation of Leaflet in 
 - In the styled version althought, we have clusters, map skins (from [Stadia](https://stadiamaps.com/) and [Jawg](https://www.jawg.io/)) and custom icon for both markers and clusters.
 **ATTENTION:** for the [Jawg](https://www.jawg.io/) styles to work, you have to register in their website and get a token. I've created an import for the token (use exemple provided in the project as reference), but it's import and use is commented out in the Map component.
 
-Here's a [Codesandbox](https://codesandbox.io/p/github/gabriel-m-pereira/leaftlet-nextjs-example/main) of the project (there's a option to swtich on the top.
+Here's a [Codesandbox](https://codesandbox.io/p/github/gabriel-m-pereira/leaftlet-nextjs-example/main) of the project (there's a option to swtich on the top).
 
-# How to run locaclly
+## How to run locaclly
 
 1. Clone this project locally
 2. Run `pnpm install`
 3. Run `pnpm dev`
 
-# Dependencies
+## Dependencies
 
-## Basic
+### **Basic**
 
 - Tailwind
 - Typescript
@@ -26,7 +26,9 @@ Here's a [Codesandbox](https://codesandbox.io/p/github/gabriel-m-pereira/leaftle
 - React-Leaflet
 - @types/leaflet
 
-## Styled
+
+
+### **Styled**
 
 - Tailwind
 - Typescript
