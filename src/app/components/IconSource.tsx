@@ -7,6 +7,7 @@ const IconSource = (source: JSX.Element) =>
     iconSize: [42, 42],
     iconAnchor: [21, 42],
     popupAnchor: [0, -30],
+    className: "bg-transparent border-none",
   });
 
 export default IconSource;
