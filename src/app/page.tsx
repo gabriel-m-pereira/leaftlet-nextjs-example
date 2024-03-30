@@ -11,8 +11,8 @@ const DynamicMap = dynamic(() => import("../app/components/Map"), {
 
 export default function Home() {
   return (
-    <main className="bg-neutral-200 h-dvh flex-col flex">
-      <header className="h-28 bg-neutral-400/10 flex justify-center items-center w-full text-4xl font-extrabold">
+    <main className="bg-white h-dvh flex-col flex">
+      <header className="py-8 border-b border-neutral-400 flex justify-center items-center w-full text-4xl font-extrabold text-black">
         <p>Leaflet Example</p>
       </header>
 
