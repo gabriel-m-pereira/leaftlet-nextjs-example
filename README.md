@@ -5,9 +5,10 @@ This repository consists of both a basic and styled implementation of Leaflet in
 - In the basic version, you'll find the map working in its simplest form, with no clusters, no custom icon for the markers, etc.
 
 - In the styled version, although, we have clusters, map skins (from [Stadia](https://stadiamaps.com/) and [Jawg](https://www.jawg.io/)) and custom icon for both markers and clusters.
-**ATTENTION:** for the [Jawg](https://www.jawg.io/) styles to work, you have to register in their website and get a token. There's a example provided in the project as reference to a token file, but it's import and use is commented out in the Map component.
 
-Here's a [Codesandbox](https://codesandbox.io/p/github/gabriel-m-pereira/leaflet-nextjs-example/main) of the project (there's an option to switch on the top).
+**ATTENTION:** for the [Jawg](https://www.jawg.io/) styles to work, you have to register in their website and get a token. There's file template in the project as reference for you to place your token, but it's import and use is commented out in the Map component.
+
+Here's a [Codesandbox](https://codesandbox.io/p/github/gabriel-m-pereira/leaflet-nextjs-example/main) of the project (there's an option to switch branches at the top).
 
 ## How to run locally
 
