@@ -37,3 +37,6 @@ next-env.d.ts
 
 # Turborepo
 .turbo
+
+#Token
+accesstoken.json
